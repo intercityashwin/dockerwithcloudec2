@@ -1,0 +1,16 @@
+org\baseclass\baseClass.class
+org\pages\computer\computerPage.class
+org\pageFactory\pageFactory.class
+org\pages\computer\notebookPage.class
+org\tests\loginTest.class
+org\pages\landingPage.class
+org\extentReports\extentReports.class
+org\propertyManager\propertyLoader.class
+org\driverfactory\driverFactory.class
+org\initializeCleanup\initialize.class
+org\pages\computer\desktopPage.class
+org\pages\homePage.class
+org\pages\loginPage.class
+org\listner\listener.class
+org\tests\cartTest.class
+org\propertyManager\initiateProperties.class
